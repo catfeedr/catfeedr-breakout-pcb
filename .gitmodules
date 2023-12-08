@@ -1,0 +1,3 @@
+[submodule "pcb/lib/ki-lime-pi-pico"]
+	path = pcb/lib/ki-lime-pi-pico
+	url = git@github.com:recursivenomad/ki-lime-pi-pico.git
